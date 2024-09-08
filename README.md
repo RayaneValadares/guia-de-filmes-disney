@@ -1,4 +1,4 @@
-# 🌟 Explorando o Universo Disney 🎬
+# 🌟 Explorando o Universo Disney 🎬 - Imersão Dev com Google Gemini
 
 Bem-vindo(a) ao meu site **"Explorando o Universo Disney"!** Aqui você pode pesquisar seus filmes favoritos da Disney, com uma experiência mágica diretamente no navegador! 🌈✨
 
